@@ -1,0 +1,13 @@
+body{
+ margin: 5px;
+ padding: 5px;
+background-color: rgba(58, 58, 58, 0.884);
+text-align: center;
+font-family: sans-serif;
+}
+
+textarea{
+
+    background-color: hsl(229, 100%, 78%);
+}
+
